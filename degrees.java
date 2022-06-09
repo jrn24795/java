@@ -11,6 +11,7 @@ package assignments;
 import java.util.Scanner;
 
 public class degrees {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		// Create new Scanner object
 		Scanner input = new Scanner(System.in);
